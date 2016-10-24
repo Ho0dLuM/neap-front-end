@@ -1,1 +1,3 @@
-/* add custom styles */
+th, td {
+  text-align: center;
+}
