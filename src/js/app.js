@@ -8,7 +8,7 @@
       'myApp.config',
       'myApp.components.coffee',
       'myApp.components.main',
-      'myApp.service'
+      'myApp.components.auth'
     ]);
 
 })();
